@@ -1,0 +1,17 @@
+- Cooldown de X segundos pra atirar, -> (valdiColisor.rockCD)
+- Removido tanque de oxigenio
+- Removida barra de perigo se não na fase "teste"
+- Corrigido bug da pedra spawnar na layer errada.
+- Corrigida hitbox da nuvem
+- Nuvem desaparece depois de um periodo
+- HUD sumindo na fase 2
+- Animação atirando
+
+-=- A FAZER -=-
+
+- Pausa
+- Game Over
+- IA Cachorro
+- IA Sombra
+- Colocar animações novas
+- Sons

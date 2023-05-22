@@ -4,8 +4,9 @@
 - Corrigido bug da pedra spawnar na layer errada.
 - Corrigida hitbox da nuvem
 - Nuvem desaparece depois de um periodo
-- HUD sumindo na fase 2
+- Corrigido bug da HUD sumindo na fase 2
 - Animação atirando
+- 50% do sistema do MMU
 
 -=- A FAZER -=-
 

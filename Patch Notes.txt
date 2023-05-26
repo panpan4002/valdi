@@ -1,3 +1,7 @@
+-=- FEITO -=-
+
+-=- 22/05/2023 -=-
+
 - Cooldown de X segundos pra atirar, -> (valdiColisor.rockCD)
 - Removido tanque de oxigenio
 - Removida barra de perigo se não na fase "teste"
@@ -8,11 +12,19 @@
 - Animação atirando
 - 50% do sistema do MMU
 
+-=- 26/05/2023 -=-
+
+- WASD e Espaço pra controles
+- Shift para atirar
+
 -=- A FAZER -=-
 
+- Pulo reduzido e gravidade aumentada na fase 1
 - Pausa
 - Game Over
 - IA Cachorro
 - IA Sombra
 - Colocar animações novas
 - Sons
+- Logo no menu
+- Foto no menu

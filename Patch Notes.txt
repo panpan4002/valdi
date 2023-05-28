@@ -17,12 +17,19 @@
 - WASD e Espaço pra controles
 - Shift para atirar
 
+-=- 28/05/2023 -=-
+
+- Animação cachorro
+- Cachorro pula ao bater no DOGTRIGGER
+
+
 -=- A FAZER -=-
 
 - Pulo reduzido e gravidade aumentada na fase 1
 - Pausa
 - Game Over
 - IA Cachorro
+- Caixa
 - IA Sombra
 - Colocar animações novas
 - Sons

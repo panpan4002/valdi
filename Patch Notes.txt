@@ -26,5 +26,5 @@
 - IA Sombra
 - Colocar animações novas
 - Sons
-- Logo no menu
-- Foto no menu
+- Logo pychoduck no menu
+- Foto equipe no menu

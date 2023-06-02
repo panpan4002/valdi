@@ -32,10 +32,10 @@
 - Menu de fato funcional.
 - Animacao andando
 - Andando com MMU
+- Pulo e gravidade aumentados na fase 1 (JUMPFORCE1, GRAVITYSCALE1, JUMPFORCE2, GRAVITYSCALE2)
 
 -=- A FAZER -=-
 
-- Pulo reduzido e gravidade aumentada na fase 1
 - Pausa
 - Game Over
 - IA Cachorro

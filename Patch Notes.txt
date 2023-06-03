@@ -34,8 +34,16 @@
 - Andando com MMU
 - Pulo e gravidade aumentados na fase 1 (JUMPFORCE1, GRAVITYSCALE1, JUMPFORCE2, GRAVITYSCALE2)
 
+-=- 03/06/2023 -=-
+
+- Sistema do diario
+- Slow ao empurrar caixa
+- Removidas Obscenidades
+- Metade do parallax
+
 -=- A FAZER -=-
 
+- Outra metade do parallax
 - Pausa
 - Game Over
 - IA Cachorro

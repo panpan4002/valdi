@@ -40,6 +40,7 @@
 - Slow ao empurrar caixa
 - Removidas Obscenidades
 - Metade do parallax
+- Ao apertar K o valdi insta morre (pra testar a tela de game over) mas ta td bugado isso e eu to com dor de cabeça
 
 -=- A FAZER -=-
 

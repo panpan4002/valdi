@@ -41,15 +41,17 @@
 - Removidas Obscenidades
 - Metade do parallax
 - Ao apertar K o valdi insta morre (pra testar a tela de game over) mas ta td bugado isso e eu to com dor de cabeça
+-djasdsdjijifjijfiwejfmadd
 
 -=- 04/06/2023 -=-
 
 - Parallax
 - Pausa
+- Game Over
+- Mais casas
 
 -=- A FAZER -=-
 
-- Game Over
 - IA Cachorro
 - Caixa
 - IA Sombra

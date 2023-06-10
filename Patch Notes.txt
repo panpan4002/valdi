@@ -50,10 +50,21 @@
 - Game Over
 - Mais casas
 
+-=- 09/06/2023 -=-
+
+- Diario novo
+- Tileset novo
+- Movimento novo
+- Plataformas Jumpthru novas
+- Knockback novo
+- Sistema de escada
+- Slow decente ao empurrar caixa
+- Posicionadas paginas 1, 2 do diario
+
 -=- A FAZER -=-
 
+- Montanhas parallax
 - IA Cachorro
-- Caixa
 - IA Sombra
 - Colocar animações novas
 - Sons

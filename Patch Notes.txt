@@ -59,15 +59,23 @@
 - Knockback novo
 - Sistema de escada
 - Slow decente ao empurrar caixa
-- Posicionadas paginas 1, 2 do diario
-- Puzzles
+- Posicionadas paginas 1, 2 e 3 do diario
+- Puzzles Fase 1
+
+-=- 10/06/2023 -=-
+
+- Animações novas e sistema de animação funcional
+- Paginas novas diario
+- Tela Psychoduck
+- Tela Ajuda
+- Botoes novos
+- Transição entre layouts
+- Sons valdi
 
 -=- A FAZER -=-
 
-- Colocar animações novas
 - MMU fisica
 - Montanhas parallax
 - IA Cachorro
 - IA Sombra
 - Sons
-- Foto equipe no menu

@@ -60,12 +60,14 @@
 - Sistema de escada
 - Slow decente ao empurrar caixa
 - Posicionadas paginas 1, 2 do diario
+- Puzzles
 
 -=- A FAZER -=-
 
+- Colocar animações novas
+- MMU fisica
 - Montanhas parallax
 - IA Cachorro
 - IA Sombra
-- Colocar animações novas
 - Sons
 - Foto equipe no menu
